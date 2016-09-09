@@ -1,0 +1,7 @@
+/* Empty. Add your own CSS if you like */
+.logout-divider {
+    background: -webkit-linear-gradient(left top, #ffffff, #ff9068);
+    background: -o-linear-gradient(bottom right, #ffffff, #ff9068);
+    background: -moz-linear-gradient(bottom right, #ffffff, #ff9068);
+    background: linear-gradient(to bottom right, #ffffff, #ff9068);
+}
